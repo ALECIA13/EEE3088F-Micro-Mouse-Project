@@ -3,6 +3,7 @@
 - Nyangiwe Someleze (nynsom001@myuct.ac.za)
 - Hlungwani Khanyisa (hlnkha010@myuct.ac.za)
 # Overview
+## What you will need
 
 # Structure
 - Datasheets/: Contains datasheets providing detailed information about the components used in our project, helping you understand their specifications and characteristics.
