@@ -6,4 +6,4 @@
 
 # Structure
 - Datasheets/: Contains datasheets providing detailed information about the components used in our project, helping you understand their specifications and characteristics.
-- KiCAD/: This directory holds all the KiCAD files, including schematics, project files, and PCB files, giving you insight into the hardware design and layout of our Micromouse
+- KiCAD/: This directory holds all the KiCAD files, including schematics, project files, and PCB files, giving you insight into the hardware design and layout of our subsystems.
