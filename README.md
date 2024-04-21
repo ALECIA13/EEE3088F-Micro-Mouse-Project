@@ -3,6 +3,7 @@
 - Nyangiwe Someleze (nynsom001@myuct.ac.za)
 - Hlungwani Khanyisa (hlnkha010@myuct.ac.za)
 # Overview
+Welcome to our micr-mouse project. This project is about a robotic design which is required to complete a maze. It uses infrared light to detect obstacles on its path.
 ## What you will need
 
 # Structure
