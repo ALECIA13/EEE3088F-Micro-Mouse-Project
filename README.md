@@ -10,8 +10,8 @@ Welcome to our micro-mouse project. This project is about a robotic design which
 Description: Responsible for powering the entire system, including motor driving, battery charging, and providing battery state of charge information.\
 Testing: Verify functionality through acceptance tests
 ## Sensor Subsystem
-### Description: Detects and senses objects in the maze environment.
-### Testing: Ensure accurate object detection and reliable sensor data.
+Description: Detects and senses objects in the maze environment.\
+Testing: Ensure accurate object detection and reliable sensor data.
 ## What you will need
 
 # Structure
