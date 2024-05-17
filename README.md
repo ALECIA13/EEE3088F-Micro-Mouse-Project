@@ -12,7 +12,8 @@ Testing: Verify functionality through acceptance tests
 ## Sensor Subsystem
 Description: Detects and senses objects in the maze environment.\
 Testing: Ensure accurate object detection and reliable sensor data.
-## What you will need
+## Usage
+Refer to the documentation and README files within each subsystem directory for detailed usage instructions.
 
 # Structure
 - Datasheets/: Contains datasheets providing detailed information about the components used in our project, helping you understand their specifications and characteristics.
